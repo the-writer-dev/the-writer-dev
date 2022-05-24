@@ -20,4 +20,9 @@ Here are some ideas to get you started:
 
 This week I spent time on...
 <!--START_SECTION:waka-->
+
+```text
+Python   34 mins         █████████████████████████   100.00 %
+```
+
 <!--END_SECTION:waka-->
