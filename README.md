@@ -15,10 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Currently I'm working on... 
+- Building a developer playbook
+- Building mastery of data structures and algorithms
+- Building a system to be an ultralearner
 
+### Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bitethecode)](https://github.com/anuraghazra/github-readme-stats)
 
-This week I spent time on...
+### Wakatime
 <!--START_SECTION:waka-->
 
 ```text
