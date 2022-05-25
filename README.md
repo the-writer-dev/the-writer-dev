@@ -22,7 +22,8 @@ This week I spent time on...
 <!--START_SECTION:waka-->
 
 ```text
-Python   34 mins         █████████████████████████   100.00 %
+Ruby   4 mins          ██████████████████████░░░   88.64 %
+VimL   0 secs          ███░░░░░░░░░░░░░░░░░░░░░░   11.36 %
 ```
 
 <!--END_SECTION:waka-->
