@@ -1,4 +1,10 @@
 ### Hi there 👋
+### A little exposure, I'm ...
+
+☪ Reverse engineering the system & mindset for software engineers to achieve more 
+📚 Bookworms 
+✨ Voracious ultra learner 
+🕊 Early riser
 
 <!--
 **bitethecode/bitethecode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +20,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 
 ### Currently I'm working on... 
 - Building a developer playbook
