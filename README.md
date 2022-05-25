@@ -34,8 +34,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Ruby   4 mins          ██████████████████████░░░   88.64 %
-VimL   0 secs          ███░░░░░░░░░░░░░░░░░░░░░░   11.36 %
+Ruby                   ██████████████████████░░░   88.64 %
+VimL                   ███░░░░░░░░░░░░░░░░░░░░░░   11.36 %
 ```
 
 <!--END_SECTION:waka-->
