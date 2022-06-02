@@ -5,7 +5,7 @@
 📚 Bookworms 
 ✨ Voracious ultra learner 
 🕊 Early riser
-
+🎠 Vim
 <!--
 **bitethecode/bitethecode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
