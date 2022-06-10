@@ -1,11 +1,11 @@
 ### Hi there 👋
 ### A little exposure, I'm ...
 
-☪ Reverse engineering the system & mindset for software engineers to achieve more 
-📚 Bookworms 
-✨ Voracious ultra learner 
-🕊 Early riser
-🎠 Vim lover
+☪ Reverse engineering the system & mindset for software engineers to achieve more <br/>
+📚 Bookworms <br/>
+✨ Voracious ultra learner <br/>
+🕊 Early riser <br/>
+🎠 Vim lover <br/>
 <!--
 **bitethecode/bitethecode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
