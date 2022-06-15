@@ -6,6 +6,7 @@
 ✨ Voracious ultra learner <br/>
 🕊 Early riser <br/>
 🎠 Vim lover <br/>
+
 <!--
 **bitethecode/bitethecode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,7 +22,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 ### Currently I'm working on... 
 - Building a developer playbook
 - Building mastery of data structures and algorithms
@@ -29,8 +29,6 @@ Here are some ideas to get you started:
 
 ### Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bitethecode&count_private=true&showing_icons=true&hide=prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 ### Wakatime
 <!--START_SECTION:waka-->
