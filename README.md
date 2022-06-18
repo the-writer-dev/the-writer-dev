@@ -4,7 +4,6 @@
 ☪ Reverse engineering the system & mindset for software engineers to achieve more <br/>
 📚 Bookworms <br/>
 ✨ Voracious ultra learner <br/>
-🕊 Early riser <br/>
 🎠 Vim lover <br/>
 
 <!--
