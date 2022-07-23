@@ -2,8 +2,7 @@
 ### A little exposure, I'm ...
 
 ☪ Hacking the system & mindset for software engineers performance <br/>
-📚 Bookworms <br/>
-✨ Voracious ultra learner <br/>
+📚 Bookworms/Voracious ultra learner <br/>
 🎠 Vim lover <br/>
 
 <!--
