@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### A little exposure, I'm ...
 
-☪ Hacking the system & mindset for software engineers performance <br/>
+☪ Hacking the fundamentals, system, tools, and mindset for developer's performance <br/>
 📚 Bookworms/Voracious ultra learner <br/>
 🎠 Vim lover <br/>
 
