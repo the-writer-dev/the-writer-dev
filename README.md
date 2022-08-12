@@ -31,11 +31,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Docker                   ████████████████████░░░░░   80.40 %
-YAML                     ████░░░░░░░░░░░░░░░░░░░░░   16.51 %
-sh                       ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
-Bash                     ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
-Other                    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
