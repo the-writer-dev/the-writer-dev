@@ -31,7 +31,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Go                           ███████████▓░░░░░░░░░░░░░   46.23 %
+JavaScript                   █████░░░░░░░░░░░░░░░░░░░░   20.38 %
+Vim Script                   ████░░░░░░░░░░░░░░░░░░░░░   16.31 %
+Other                        ██▒░░░░░░░░░░░░░░░░░░░░░░   08.75 %
 ```
 
 <!--END_SECTION:waka-->
