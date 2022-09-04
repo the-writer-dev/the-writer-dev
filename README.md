@@ -1,8 +1,8 @@
 ### Hi there 👋
 ### A little exposure, I'm ...
 
+👩‍🌾 Gardening knowledge with obsidianmd <br/>
 ☪ Hacking the fundamentals, system, tools, and mindset for developer's performance <br/>
-📚 Bookworms/Voracious ultra learner <br/>
 🎠 Vim lover <br/>
 
 <!--
