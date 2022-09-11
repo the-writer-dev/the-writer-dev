@@ -39,6 +39,6 @@ Go                         ░░░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-## My Blog
-<!--START_SECTION:feed-->
-<!--END_SECTION:feed-->
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
