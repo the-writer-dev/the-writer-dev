@@ -40,5 +40,5 @@ Go                         ░░░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ## My Blog
-<!-- BLOGPOSTS:START -->
-<!-- BLOGPOSTS:END -->
+<!--START_SECTION:feed-->
+<!--END_SECTION:feed-->
