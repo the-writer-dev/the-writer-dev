@@ -39,5 +39,6 @@ Go                         ░░░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-### Recent Blogs
-- [Reverse engineer burn out and how to avoid it](https://bitethecode.org/#/articles/reverse-engineer-burnout-and-how-to-avoid-it)
+## My Blog
+<!-- BLOGPOSTS:START -->
+<!-- BLOGPOSTS:END -->
