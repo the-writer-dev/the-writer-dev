@@ -1,27 +1,15 @@
-name: Blog post workflow
+name: Update this repo's README
+
 on:
   schedule:
-    # Runs every day at 3pm UTC (11pm SG)
-    - cron: '0 15 * * *'
+    # Once a day at 8 AM
+    - cron: 0 8 * * *
 
 jobs:
-  pull_blog_rss:
-    name: Update with latest blog posts
+  update:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - name: Get RSS Feed
-        uses: kohrongying/readme-the-rss@master
+      - uses: JasonEtco/rss-to-readme@v1
         with:
-          feed_url: https://bitethecode.io/1/feed
-          count: 5
-      - name: Commit file changes
-        run: |
-            git config --global user.name 'bitethecode'
-            git config --global user.email 'jahn.cs@protonmail.com'
-            git add .
-            git diff --quiet --cached || git commit -m "Update README"    
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          feed-url: https://bitethecode.io/1/feed
+          readme-section: feed
