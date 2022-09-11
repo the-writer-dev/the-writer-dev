@@ -41,4 +41,5 @@ Go                         ░░░░░░░░░░░░░░░░░�
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [S.M.A.R.T approach and time block strategy to achieve your goals](https://www.bitethecode.io/home/smart-approach-and-time-block-strategy-to-achieve-your-goals)
 <!-- BLOG-POST-LIST:END -->
