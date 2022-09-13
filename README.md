@@ -1,5 +1,8 @@
+![Space](https://user-images.githubusercontent.com/92326584/189933989-90d9322d-7fb6-4d6f-aaa1-9c67c9ba1ad8.jpeg)
+
 ### Hi there 👋
 ### A little exposure, I'm ...
+
 
 👩‍🌾 Gardening knowledge with obsidianmd <br/>
 ☪ Hacking the fundamentals, system, tools, and mindset for developer's performance <br/>
