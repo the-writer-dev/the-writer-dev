@@ -16,10 +16,11 @@ Especially, I'm obsessed with developer productivity and knowledge management
 <!--START_SECTION:waka-->
 
 ```text
-YAML                         █████████▒░░░░░░░░░░░░░░░   37.19 %
-Vim Script                   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.02 %
-SQL                          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.44 %
-Other                        ██▒░░░░░░░░░░░░░░░░░░░░░░   09.35 %
+YAML                         ███████▓░░░░░░░░░░░░░░░░░   30.15 %
+Vim Script                   ███░░░░░░░░░░░░░░░░░░░░░░   11.58 %
+Go                           ███░░░░░░░░░░░░░░░░░░░░░░   11.56 %
+SQL                          ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 %
+Other                        ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 %
 ```
 
 <!--END_SECTION:waka-->
