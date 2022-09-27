@@ -5,9 +5,14 @@
 I'm an enthusiastic engineer interested in making a positive impact on the community by building meaningful things. 
 Especially, I'm obsessed with developer productivity and knowledge management
 
+### Tech stack (2022)
+- Sveltejs
+- Golang
+
 ### Currently I'm working on... 
 - Building a developer playbook & mastery of data structures and algorithms
 - Building 6 projects in 12 months!
+
 
 ### Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bitethecode&count_private=true&showing_icons=true)](https://github.com/anuraghazra/github-readme-stats)
