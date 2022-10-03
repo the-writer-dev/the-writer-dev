@@ -21,7 +21,7 @@ Especially, I'm obsessed with developer productivity and knowledge management
 <!--START_SECTION:waka-->
 
 ```text
-Go                           ███████████████████▒░░░░░   77.99 %
+Go                           ███████████████████▒░░░░░   77.91 %
 GraphQL                      █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
 Bash                         █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
 Java                         █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
