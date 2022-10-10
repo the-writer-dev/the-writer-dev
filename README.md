@@ -21,12 +21,12 @@ Especially, I'm obsessed with developer productivity and knowledge management
 <!--START_SECTION:waka-->
 
 ```text
-Go                         ████████████████████████▓   98.19 %
+Go                         ████████████████████████▓   98.28 %
 YAML                       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
 tmux                       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
 Bash                       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 Markdown                   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
-Python                     ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Makefile                   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
