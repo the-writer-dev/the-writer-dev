@@ -21,10 +21,10 @@ Especially, I'm obsessed with developer productivity and knowledge management
 <!--START_SECTION:waka-->
 
 ```text
-Go                           ██████████████████████░░░   88.35 %
-Emacs Lisp                   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 %
-Makefile                     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
-Other                        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+Go                           █████████████████████▓░░░   86.51 %
+Emacs Lisp                   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.30 %
+Makefile                     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
+Other                        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
 ```
 
 <!--END_SECTION:waka-->
