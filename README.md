@@ -9,10 +9,10 @@ Especially, I'm obsessed with developer productivity and knowledge management
 - Sveltejs
 - Golang
 
-### Currently I'm working on... 
-- Building a developer playbook & mastery of data structures and algorithms
-- Building 6 projects in 12 months!
-
+### Currently I'm obsessed with ... 
+- Open source projects
+- Engineer's performance
+- Building the second brain 
 
 ### Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bitethecode&count_private=true&showing_icons=true)](https://github.com/anuraghazra/github-readme-stats)
