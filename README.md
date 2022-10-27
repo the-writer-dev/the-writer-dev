@@ -6,8 +6,9 @@ I'm an enthusiastic engineer interested in making a positive impact on the commu
 Especially, I'm obsessed with developer productivity and knowledge management
 
 ### Tech stack (2022)
-- Sveltejs
-- Golang
+- reactJs
+- Go
+- Python
 
 ### Currently I'm obsessed with ... 
 - Open source projects
