@@ -15,8 +15,8 @@ Especially, I'm obsessed with developer productivity and knowledge management
 - Engineer's performance
 - Building the second brain 
 
-### Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bitethecode&count_private=true&showing_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ### Github Stats -->
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bitethecode&count_private=true&showing_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ### Wakatime
 <!--START_SECTION:waka-->
