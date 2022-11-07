@@ -7,8 +7,7 @@ Especially, I'm obsessed with developer productivity and knowledge management
 
 ### Tech stack (2022)
 - reactJs
-- Go
-- Python
+- Go/JavaScript/Python
 
 ### Currently I'm obsessed with ... 
 - Open source projects
