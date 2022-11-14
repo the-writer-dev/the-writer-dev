@@ -29,10 +29,5 @@ Go                           █▓░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-<!-- # Blog posts -->
-<!-- BLOG-POST-LIST:START -->
-- [Git tutorials/Ch1](https://www.bitethecode.io/home/git-tutorialsch1)
-- [Throw out your endless to-do list, do this instead](https://www.bitethecode.io/home/throw-out-your-endless-to-do-list-do-this-instead)
-- [Time management for any knowledge workers](https://www.bitethecode.io/home/time-management-for-any-knowledge-workers)
-- [S.M.A.R.T approach and time block strategy to achieve your goals](https://www.bitethecode.io/home/smart-approach-and-time-block-strategy-to-achieve-your-goals)
-<!-- BLOG-POST-LIST:END -->
+### Blogs
+You can find all of the articles [here](bitethecode.netlify.app)
