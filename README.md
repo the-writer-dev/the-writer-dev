@@ -30,4 +30,4 @@ Go                           █▓░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 ### Blogs
-You can find all of the articles [here](bitethecode.netlify.app)
+You can find all of the articles [here](https://bitethecode.netlify.app)
