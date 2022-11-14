@@ -1,4 +1,4 @@
-<img width="100%" src="https://user-images.githubusercontent.com/92326584/189933989-90d9322d-7fb6-4d6f-aaa1-9c67c9ba1ad8.jpeg"/>
+![Screen Shot 2022-11-14 at 8 56 03 AM](https://user-images.githubusercontent.com/92326584/201692679-17b02100-22a6-48b3-a1cf-b488cae8b108.png)
 
 ### Hi there 👋
 ### A little exposure, I'm ...
