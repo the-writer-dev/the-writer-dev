@@ -1,4 +1,4 @@
-![Aastronauts](https://user-images.githubusercontent.com/92326584/202029305-676ef4ac-e4ec-442a-8d6f-fe6ccf547974.jpeg)
+![Astronauts 2](https://user-images.githubusercontent.com/92326584/202029508-1366f7a9-5194-4122-a4f0-02c45f9206b7.jpeg)
 
 ### Hi there 👋
 ### A little exposure, I'm ...
