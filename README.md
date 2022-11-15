@@ -1,4 +1,4 @@
-![Screen Shot 2022-11-14 at 8 56 03 AM](https://user-images.githubusercontent.com/92326584/201692679-17b02100-22a6-48b3-a1cf-b488cae8b108.png)
+![Aastronauts](https://user-images.githubusercontent.com/92326584/202029305-676ef4ac-e4ec-442a-8d6f-fe6ccf547974.jpeg)
 
 ### Hi there 👋
 ### A little exposure, I'm ...
