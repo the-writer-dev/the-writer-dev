@@ -22,10 +22,10 @@ Especially, I'm obsessed with developer productivity and knowledge management
 <!--START_SECTION:waka-->
 
 ```text
-Vue.js                       ██████████████████▒░░░░░░   73.80 %
-YAML                         ███░░░░░░░░░░░░░░░░░░░░░░   11.53 %
-TypeScript                   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.12 %
-Go                           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 %
+Vue.js                       ███████████████████▒░░░░░   77.04 %
+YAML                         ███░░░░░░░░░░░░░░░░░░░░░░   12.03 %
+TypeScript                   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.52 %
+Go                           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
 ```
 
 <!--END_SECTION:waka-->
