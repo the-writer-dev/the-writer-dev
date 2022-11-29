@@ -22,10 +22,12 @@ Especially, I'm obsessed with developer productivity and knowledge management
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript                   ███████████████████░░░░░░   75.92 %
-Markdown                     █████░░░░░░░░░░░░░░░░░░░░   19.90 %
-YAML                         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
-Other                        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
+Vue.js                       ██████████████░░░░░░░░░░░   55.60 %
+JavaScript                   █████▓░░░░░░░░░░░░░░░░░░░   22.96 %
+Go                           ███▒░░░░░░░░░░░░░░░░░░░░░   13.99 %
+Markdown                     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.80 %
+TypeScript                   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+Other                        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
