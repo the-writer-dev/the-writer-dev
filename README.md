@@ -17,12 +17,13 @@ Especially, I'm obsessed with developer productivity and knowledge management
 - Building the second brain 
 
 ### Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bitethecode&count_private=true&showing_icons=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bitethecode&theme=transparent&count_private=true&showing_icons=true&hide=contribs)
 
 <!-- ### Wakatime -->
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+### Enjoy My Git history!
 ![snake gif](https://github.com/bitethecode/bitethecode/blob/output/github-contribution-grid-snake.gif)
 
 ### Blogs
