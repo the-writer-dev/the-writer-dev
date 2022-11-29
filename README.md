@@ -24,7 +24,7 @@ Especially, I'm obsessed with developer productivity and knowledge management
 <!--END_SECTION:waka-->
 
 ### Enjoy My Git history!
-![snake gif](https://github.com/bitethecode/bitethecode/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/bitethecode/bitethecode/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 ### Blogs
 You can find all of the articles [here](https://bitethecode.netlify.app)
