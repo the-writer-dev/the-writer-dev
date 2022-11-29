@@ -21,16 +21,6 @@ Especially, I'm obsessed with developer productivity and knowledge management
 
 <!-- ### Wakatime -->
 <!--START_SECTION:waka-->
-
-```text
-Vue.js                       ██████████████░░░░░░░░░░░   55.60 %
-JavaScript                   █████▓░░░░░░░░░░░░░░░░░░░   22.96 %
-Go                           ███▒░░░░░░░░░░░░░░░░░░░░░   13.99 %
-Markdown                     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.80 %
-TypeScript                   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
-Other                        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-```
-
 <!--END_SECTION:waka-->
 
 ![snake gif](https://github.com/bitethecode/bitethecode/blob/output/github-contribution-grid-snake.gif)
