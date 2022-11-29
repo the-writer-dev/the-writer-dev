@@ -33,7 +33,7 @@ Other                        ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+![snake gif](https://github.com/bitethecode/bitethecode/blob/output/github-contribution-grid-snake.gif)
 
 ### Blogs
 You can find all of the articles [here](https://bitethecode.netlify.app)
