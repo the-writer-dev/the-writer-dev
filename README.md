@@ -12,6 +12,7 @@ Especially, I'm obsessed with developer productivity and knowledge management
 
 ### Currently I'm obsessed with ... 
 - Open source projects
+  - [Blog Template](https://github.com/bitethecode/blog-template)
 - Engineer's performance
 - Building the second brain 
 
