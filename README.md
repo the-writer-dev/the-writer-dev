@@ -6,8 +6,11 @@
 I'm an enthusiastic engineer interested in making a positive impact on the community by building meaningful things. 
 Especially, I'm obsessed with developer productivity and knowledge management
 
-### Tech stack (2022)
+### Tools 
 - Vim
+- Obsidian
+
+### Tech stack (2022)
 - reactJs
 - Go/TypeScript/Php
 
