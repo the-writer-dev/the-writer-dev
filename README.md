@@ -23,9 +23,5 @@ Especially, I'm obsessed with developer productivity and knowledge management
 ### Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bitethecode&theme=transparent&count_private=true&showing_icons=true&hide=contribs)
 
-<!-- ### Wakatime -->
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 ### Blogs
 You can find all of the articles [here](https://bitethecode.netlify.app)
