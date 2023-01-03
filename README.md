@@ -4,7 +4,7 @@
 ### Hi there 👋
 ### A little exposure, I'm ...
 I'm an enthusiastic engineer interested in making a positive impact on the community by building meaningful things. 
-Especially, I'm obsessed with developer productivity and knowledge management
+
 
 ### Tools 
 - Vim
