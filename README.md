@@ -23,8 +23,5 @@ I'm an enthusiastic engineer interested in making a positive impact on the commu
 - Engineer's performance
 - Building the second brain 
 
-### Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bitethecode&theme=transparent&count_private=true&showing_icons=true&hide_contris=true)
-
 ### Blogs
 You can find all of the articles [here](https://bitethecode.netlify.app)
