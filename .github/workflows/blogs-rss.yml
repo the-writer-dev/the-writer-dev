@@ -13,7 +13,7 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-      - name: Pull in dev.to posts
+      - name: Pull SubStack Posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://bitethecode.substack.com/feed"
