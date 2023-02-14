@@ -25,3 +25,6 @@ I'm an enthusiastic engineer interested in making a positive impact on the commu
 
 ### Blogs
 You can find all of the articles [here](https://bitethecode.netlify.app)
+
+### History 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=bitethecode&theme=dark)](https://git.io/streak-stats)
