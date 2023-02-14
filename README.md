@@ -25,6 +25,7 @@ I'm an enthusiastic engineer interested in making a positive impact on the commu
 ### Blogs
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
 You can find all of the articles [here](https://bitethecode.netlify.app)
 
 ### History 
