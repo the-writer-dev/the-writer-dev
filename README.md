@@ -24,6 +24,10 @@ I'm an enthusiastic engineer interested in making a positive impact on the commu
 
 ### Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Right Backend Roadmap](https://bitethecode.substack.com/p/the-right-backend-roadmap)
+- [Docker - dive into docker-compose](https://bitethecode.substack.com/p/docker-tutorial-dive-into-docker)
+- [How to prepare the future as a software engineer](https://bitethecode.substack.com/p/how-to-prepare-the-future-as-a-software)
+- [Coming soon](https://bitethecode.substack.com/p/coming-soon)
 <!-- BLOG-POST-LIST:END -->
 
 You can find all of the articles [here](https://bitethecode.netlify.app)
