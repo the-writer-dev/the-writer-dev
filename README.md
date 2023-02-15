@@ -14,13 +14,9 @@
 ## A little exposure, I'm ...
 I'm an enthusiastic engineer interested in making a positive impact on the community by building meaningful things. 
 
-## Tools 
-- Vim
-- Obsidian
-
-## Tech stack (2023)
-- reactJs
-- Go/TypeScript/Php
+## Tools & Tech stack (2023)
+- Vim/Obsidian
+- reactJs/Go/Python
 
 ## Currently I'm obsessed with ... 
 - Open source projects
@@ -42,4 +38,5 @@ I'm an enthusiastic engineer interested in making a positive impact on the commu
 
 ## History 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=bitethecode&theme=dark)](https://git.io/streak-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bitethecode)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bitethecode&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
