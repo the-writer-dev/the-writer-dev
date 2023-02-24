@@ -1,5 +1,5 @@
 <!-- ![Astronauts 2](https://user-images.githubusercontent.com/92326584/202029508-1366f7a9-5194-4122-a4f0-02c45f9206b7.jpeg) -->
-![snake gif](https://github.com/bitethecode/bitethecode/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
+<!-- ![snake gif](https://github.com/bitethecode/bitethecode/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only) -->
 
 ## Hi there 👋
 <div id="badges">
@@ -11,7 +11,6 @@
   </a>
 </div
   
-## A little exposure, I'm ...
 I'm an enthusiastic engineer interested in making a positive impact on the community by building meaningful things. 
 
 ## Tools & Tech stack (2023)
