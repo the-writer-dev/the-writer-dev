@@ -23,8 +23,7 @@ I'm an enthusiastic engineer interested in making a positive impact on the commu
   - [Woodpecker CI](https://github.com/woodpecker-ci)
   - [Signoz](https://github.com/SigNoz)
   
-- Engineer's performance
-- Building the second brain 
+- Building software for writers
 
 ## Blogs
 <!-- BLOG-POST-LIST:START -->
