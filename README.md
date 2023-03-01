@@ -36,6 +36,6 @@ I'm an enthusiastic engineer interested in making a positive impact on the commu
 
 
 ## History 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=bitethecode&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=bitethecode&theme=dark&fire=fff)](https://git.io/streak-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bitethecode&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
