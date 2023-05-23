@@ -17,14 +17,6 @@ I'm an enthusiastic engineer interested in making a positive impact on the commu
 - Vim/Obsidian
 - reactJs/Go/Python
 
-## Currently I'm obsessed with ... 
-- Open source projects
-  - [Blog Template](https://github.com/bitethecode/blog-template)
-  - [Woodpecker CI](https://github.com/woodpecker-ci)
-  - [Signoz](https://github.com/SigNoz)
-  
-- Building software for writers
-
 ## Blogs
 <!-- BLOG-POST-LIST:START -->
 - [Understanding of context in Go](https://bitethecode.substack.com/p/understanding-of-context-in-go)
