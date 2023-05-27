@@ -17,6 +17,7 @@ I'm an enthusiastic engineer interested in making a positive impact on the commu
 
 ## Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Are you safe from the ChatGPT?](https://bitethecode.substack.com/p/are-you-safe-from-the-chatgpt)
 - [How to prepare the future as a software engineer](https://bitethecode.substack.com/p/how-to-prepare-the-future-as-a-software)
 - [Coming soon](https://bitethecode.substack.com/p/coming-soon)
 <!-- BLOG-POST-LIST:END -->
