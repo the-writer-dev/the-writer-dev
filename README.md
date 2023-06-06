@@ -8,8 +8,8 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div -->
-  
-I'm an enthusiastic engineer interested in making a positive impact on the community by building meaningful things. 
+
+The PKM person. I write about how to grow your ideas/knowledge garden and manage it with a system for devs and creators.
 
 ## Tools & Tech stack (2023)
 - Vim/Obsidian
