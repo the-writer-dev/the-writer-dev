@@ -17,6 +17,7 @@ The PKM person. I write about how to grow your ideas/knowledge garden and manage
 
 ## Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Simulate midlife crisis](https://bitethecode.substack.com/p/simulate-midlife-crisis)
 - [Are you safe from the ChatGPT?](https://bitethecode.substack.com/p/are-you-safe-from-the-chatgpt)
 - [How to prepare the future as a software engineer](https://bitethecode.substack.com/p/how-to-prepare-the-future-as-a-software)
 - [Coming soon](https://bitethecode.substack.com/p/coming-soon)
