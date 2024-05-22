@@ -9,7 +9,7 @@
   </a>
 </div -->
 
-The PKM person. I write about how to grow your ideas/knowledge garden and manage it with a system for devs and creators.
+글쓰는 개발자 (글개)🇺🇸🇰🇷 This is the document of my journey as a software engineer. I love to talk about software engineering, AI, notes, deep work. 
 
 ## Tools & Tech stack (2024)
 - Vim/Obsidian
