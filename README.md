@@ -11,6 +11,10 @@
 
 글쓰는 개발자 (글개)🇺🇸🇰🇷 This is the document of my journey as a software engineer. I love to talk about software engineering, AI, notes, deep work. 
 
+## Project I'm working on
+Currently I'm building [ThreadSight](threadsight.xyz), a social media tool for Meta Threads. 
+
+
 ## Tools & Tech stack (2024)
 - Vim/Obsidian
 - reactJs/Go/Python
