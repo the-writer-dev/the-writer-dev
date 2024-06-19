@@ -15,7 +15,7 @@
 Currently I'm building
 - [ThreadSight](threadsight.xyz), a social media tool for Meta Threads.
 - SmootherGPT, a tool for managing AI chats better with your own API keys.
-You can see all of my working notes in this [Link](the-writer-dev.github.io/digital-garden)
+You can see all of my working notes in this [Link](https://the-writer-dev.github.io/digital-garden/)
 
 
 ## Tools & Tech stack (2024)
